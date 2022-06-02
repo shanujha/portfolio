@@ -1,0 +1,32 @@
+.typedText {
+  color: green;
+  font-size: 4rem;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  padding: 2rem;
+  font-style: italic;
+}
+
+.typedTextName {
+  color: rgb(195, 0, 84);
+  font-size: 4rem;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  padding: 2rem;
+}
+
+.sectionTypedText {
+  background: hsl(249, 49%, 13%);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.loading {
+  background: hsl(249, 49%, 13%);
+  height: 100vh;
+  color: #fff;
+  font-size: 9rem;
+}
